@@ -1,0 +1,42 @@
+PODS:
+  - DTCoreText (1.6.17):
+    - DTFoundation/Core (~> 1.7.5)
+    - DTFoundation/DTAnimatedGIF (~> 1.7.5)
+    - DTFoundation/DTHTMLParser (~> 1.7.5)
+    - DTFoundation/UIKit (~> 1.7.5)
+  - DTFoundation/Core (1.7.10)
+  - DTFoundation/DTAnimatedGIF (1.7.10)
+  - DTFoundation/DTHTMLParser (1.7.10):
+    - DTFoundation/Core
+  - DTFoundation/UIKit (1.7.10):
+    - DTFoundation/Core
+  - DTLoupe (1.5.8)
+  - DTRichTextEditor (1.6.12):
+    - DTCoreText (~> 1.6.16)
+    - DTFoundation/Core (~> 1.7.8)
+    - DTLoupe (~> 1.5.8)
+    - DTWebArchive (~> 0.0.2)
+  - DTWebArchive (0.0.3):
+    - DTWebArchive/Core (= 0.0.3)
+    - DTWebArchive/iOS (= 0.0.3)
+  - DTWebArchive/Core (0.0.3)
+  - DTWebArchive/iOS (0.0.3):
+    - DTWebArchive/Core
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - DTCoreText
+  - DTRichTextEditor
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  DTCoreText: 3ea8bba23dd2141ba18adb227a7dd33a822df1c4
+  DTFoundation: 3b6b1b817d2a7fb02e7eaf2596c922a68145bd43
+  DTLoupe: 87d8448ec220dddbcce53df82d2cbf3e1fcce320
+  DTRichTextEditor: 255827297ff7fb173fea47945cb97a4890eff74d
+  DTWebArchive: 2029610e2e2fda5b6d51a386b13b1484b7b197ba
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+COCOAPODS: 0.39.0
