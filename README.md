@@ -5,5 +5,6 @@ a simple demo project using dtcoretext library to display long nsattributed stri
 
     $ pod install
 
+ 
 # Author
-  [elprup](http://blog.elprup.com/)
+  [卢洋](http://blog.csdn.net/macios123)
